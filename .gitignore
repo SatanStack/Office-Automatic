@@ -1,0 +1,10 @@
+# Java class files
+*.class
+
+# Intellij
+*.iml
+*/.idea/
+.idea/
+
+# System file
+.DS_Store
